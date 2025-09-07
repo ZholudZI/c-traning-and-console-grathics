@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36408.4 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "c-traning-and-console-grathics", "c-traning-and-console-grathics.vcxproj", "{3B5DF19D-E641-4555-A51B-C940A16F6CF2}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "c-training-and-console-grathics", "c-training-and-console-grathics.vcxproj", "{3B5DF19D-E641-4555-A51B-C940A16F6CF2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +26,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {A261CF1F-7D92-431A-B36B-FFF3864F8454}
+		SolutionGuid = {EF553216-2E69-490E-A762-7A9805623213}
 	EndGlobalSection
 EndGlobal
