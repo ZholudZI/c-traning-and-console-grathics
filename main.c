@@ -1,5 +1,5 @@
 #include <stdio.h>
-//Я ебал ваш компилятор майкрософты
+//Fuck Microsoft compiler
 #define SCREEN_WIDTH 120
 #define SCREEM_HEIGHT 30
 
@@ -13,7 +13,7 @@ void fillScreen(char * screen, char filling_symbol) {
 
 void updateScreen(char * screen) {
     printf("%s", screen);
-    //char matrix[3][3] = { {'1', '1', '\n'}, {'2', '2', '\n'}, {'3', '3', '\0'}}; //Стоит задуматься над этими строками
+    //char matrix[3][3] = { {'1', '1', '\n'}, {'2', '2', '\n'}, {'3', '3', '\0'}}; //Thing about it
     //printf("%s", matrix);
 }
 
@@ -23,7 +23,7 @@ void drawDot(char * screen, int x, int y) {
 
 int main()
 {
-    char screen[SCREEN_WIDTH * SCREEM_HEIGHT + 1]; // Осмыслить эту абстракцию
+    char screen[SCREEN_WIDTH * SCREEM_HEIGHT + 1];
     screen[SCREEN_WIDTH * SCREEM_HEIGHT] = '\0';
     while (1)
     {
